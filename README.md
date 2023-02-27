@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/93841996/163573892-303cbed6-3755-4c56-9303-2ee3d529ea98.png)
 
-                                      **`Hi there 👋, I'm Siyabonga`**
+                                       Hi there 👋, I'm Siyabonga
 ---
 #### Network Engineering background in designing and implementing network infrastructure, creating LANs, WANS, VLANs, ACLS, NATs, VPNs, Switching, Routing and    Wireless Essentials, Ethernet Switch Ports etc. Software Development experience in numerous programming languages including C#, Python, SQL, HTML & CSS.
 ---
@@ -30,7 +30,7 @@
 <br />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Certified with:
-### <img src="https://user-images.githubusercontent.com/93841996/163575039-e3dac455-9822-4203-82cb-321cd59be657.png" width="30" height="40">
+  <img src="https://user-images.githubusercontent.com/93841996/163575039-e3dac455-9822-4203-82cb-321cd59be657.png" width="30" height="40">
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
