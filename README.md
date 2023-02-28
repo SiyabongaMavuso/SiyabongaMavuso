@@ -11,7 +11,7 @@
     ⚡ Fun fact: I love 30 seconds, music, movies and sports.
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 <img align="left" alt="C-sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -26,14 +26,12 @@
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
----
-Certified with:
-  <img src="https://user-images.githubusercontent.com/93841996/163575039-e3dac455-9822-4203-82cb-321cd59be657.png" width="30" height="40">
-
-
----
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><br/>   
+  
+---    
+### Certified with:  
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/93841996/163575039-e3dac455-9822-4203-82cb-321cd59be657.png" />  
+  
 Thank You!! for checking out my profile.
 
 
