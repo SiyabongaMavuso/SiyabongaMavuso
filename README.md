@@ -28,12 +28,12 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 Certified with:
   <img src="https://user-images.githubusercontent.com/93841996/163575039-e3dac455-9822-4203-82cb-321cd59be657.png" width="30" height="40">
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 Thank You!! for checking out my profile.
 
 
